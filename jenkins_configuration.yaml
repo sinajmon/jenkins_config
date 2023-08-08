@@ -1,0 +1,236 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - usernamePassword:
+          description: "Credentials for git"
+          id: "d0942fed-2245-4ad8-93d0-33a89de0e822"
+          password: "{AQAAABAAAAAQPONJsqxi77MZvokOY+RCOim2bGOAWExKsJO27gv0X/c=}"
+          scope: SYSTEM
+          username: "git@git.com"
+      - aws:
+          accessKey: "AKIATSMVQX4KXUYQGMWR"
+          description: "aws-jenkin"
+          id: "aws-jenkin"
+          scope: GLOBAL
+          secretKey: "{AQAAABAAAAAw0DBcmTAJ628usz6jLRh833UZvJ+V2GS0T5dgMktSJkKi4NfyvHfuUrWsA2rcZqr25OOyq68E3j6iUrXVhaUQ4w==}"
+      - gitHubApp:
+          appID: "370126"
+          description: "DevopsOrganise"
+          id: "DevopsOrganise"
+          privateKey: "{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}"
+jenkins:
+  agentProtocols:
+  - "JNLP4-connect"
+  - "Ping"
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: false
+  disableRememberMe: false
+  globalNodeProperties:
+  - envVars:
+      env:
+      - key: "AWS_ACCESS_KEY_ID"
+        value: "AKIATSMVQX4KXUYQGMWR"
+      - key: "AWS_DEFAULT_REGION"
+        value: "us-east-1"
+      - key: "AWS_SECRET_ACCESS_KEY"
+        value: "YmeLaBp92Vc2VK51C/oY6cpMk+IboLNZSAigB3ep"
+  labelAtoms:
+  - name: "built-in"
+  markupFormatter: "plainText"
+  mode: NORMAL
+  myViewsTabBar: "standard"
+  numExecutors: 2
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 3
+  securityRealm:
+    local:
+      allowsSignup: false
+      enableCaptcha: false
+      users:
+      - id: "admin"
+        name: "admin"
+        properties:
+        - "apiToken"
+        - "mailer"
+        - "favorite"
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "timezone"
+        - "experimentalFlags"
+  slaveAgentPort: 50000
+  systemMessage: "Jenkins configured automatically by Jenkins\r\n\r\n"
+  updateCenter:
+    sites:
+    - id: "default"
+      url: "https://updates.jenkins.io/update-center.json"
+  views:
+  - all:
+      name: "all"
+  viewsTabBar: "standard"
+globalCredentialsConfiguration:
+  configuration:
+    providerFilter: "none"
+    typeFilter: "none"
+security:
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  copyartifact:
+    mode: PRODUCTION
+  envInject:
+    enableLoadingFromMaster: false
+    enablePermissions: false
+    hideInjectedVars: false
+  gitHooks:
+    allowedOnAgents: false
+    allowedOnController: false
+  gitHostKeyVerificationConfiguration:
+    sshHostKeyVerificationStrategy: "knownHostsFileVerificationStrategy"
+  globalJobDslSecurityConfiguration:
+    useScriptSecurity: true
+  sSHD:
+    port: -1
+unclassified:
+  bitbucketEndpointConfiguration:
+    endpoints:
+    - bitbucketCloudEndpoint:
+        enableCache: false
+        manageHooks: false
+        repositoriesCacheDuration: 0
+        teamCacheDuration: 0
+  buildDiscarders:
+    configuredBuildDiscarders:
+    - "jobBuildDiscarder"
+  email-ext:
+    adminRequiredForTemplateTesting: false
+    allowUnregisteredEnabled: false
+    charset: "UTF-8"
+    debugMode: false
+    defaultBody: |-
+      $PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:
+
+      Check console output at $BUILD_URL to view the results.
+    defaultContentType: "text/plain"
+    defaultSubject: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!"
+    defaultTriggerIds:
+    - "hudson.plugins.emailext.plugins.trigger.FailureTrigger"
+    maxAttachmentSize: -1
+    maxAttachmentSizeMb: -1
+    precedenceBulk: false
+    watchingEnabled: false
+  enrichedSummaryConfig:
+    enrichedSummaryEnabled: false
+    httpClientDelayBetweenRetriesInSeconds: 1
+    httpClientMaxRetries: 3
+    httpClientTimeoutInSeconds: 1
+  fingerprints:
+    fingerprintCleanupDisabled: false
+    storage: "file"
+  gitHubConfiguration:
+    apiRateLimitChecker: ThrottleForNormalize
+    endpoints:
+    - apiUri: "https://api.github.com"
+      name: "githubenterprise"
+  gitHubPluginConfig:
+    configs:
+    - manageHooks: false
+    hookUrl: "http://ec2-3-84-13-118.compute-1.amazonaws.com:8080/github-webhook/"
+  injectionConfig:
+    allowUntrusted: false
+    checkForBuildAgentErrors: false
+    enabled: false
+    enforceUrl: false
+    injectCcudExtension: false
+    injectMavenExtension: false
+  junitTestResultStorage:
+    storage: "file"
+  location:
+    adminAddress: "address not configured yet <nobody@nowhere>"
+    url: "http://ec2-3-84-13-118.compute-1.amazonaws.com:8080/"
+  mailer:
+    charset: "UTF-8"
+    useSsl: false
+    useTls: false
+  mavenModuleSet:
+    localRepository: "default"
+  pluginImpl:
+    enableCredentialsFromNode: false
+  pollSCM:
+    pollingThreadCount: 10
+  prismConfiguration:
+    theme: PRISM
+  scmGit:
+    addGitTagAction: false
+    allowSecondFetch: false
+    createAccountBasedOnEmail: false
+    disableGitToolChooser: false
+    hideCredentials: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+  timestamper:
+    allPipelines: false
+    elapsedTimeFormat: "'<b>'HH:mm:ss.S'</b> '"
+    systemTimeFormat: "'<b>'HH:mm:ss'</b> '"
+  upstream:
+    globalUpstreamFilterStrategy: UseOldest
+  warningsParsers:
+    consoleLogScanningPermitted: false
+tool:
+  dotNetConfiguration:
+    buildAllowed: true
+    cleanAllowed: true
+    listPackageAllowed: true
+    nuGetDeleteAllowed: true
+    nuGetLocalsAllowed: true
+    nuGetPushAllowed: true
+    packAllowed: true
+    publishAllowed: true
+    restoreAllowed: true
+    telemetryOptOut: true
+    testAllowed: true
+    toolRestoreAllowed: true
+  dotnetsdk:
+    installations:
+    - properties:
+      - installSource:
+          installers:
+          - installDotNetSDK:
+              label: "dotnet"
+              release: "3.1.30"
+              sdk: "3.1.424"
+              url: "https://download.visualstudio.microsoft.com/download/pr/28fd6fc0-f484-43d0-90cf-5e297a784e44/09c0612bb1cc46378546dfbdfd83014e/dotnet-sdk-3.1.424-linux-x64.tar.gz"
+              version: ".NET Core 3.1"
+  git:
+    installations:
+    - home: "git"
+      name: "Default"
+  maven:
+    installations:
+    - name: "Maven"
+      properties:
+      - installSource:
+          installers:
+          - maven:
+              id: "3.9.4"
+  mavenGlobalConfig:
+    globalSettingsProvider: "standard"
+    settingsProvider: "standard"
+  nodejs:
+    installations:
+    - name: "nodejs"
+      properties:
+      - installSource:
+          installers:
+          - nodeJSInstaller:
+              id: "20.5.0"
+              npmPackagesRefreshHours: 72
