@@ -4,21 +4,28 @@ credentials:
     - credentials:
       - usernamePassword:
           description: "Credentials for git"
-          id: "d0942fed-2245-4ad8-93d0-33a89de0e822"
-          password: "{AQAAABAAAAAQPONJsqxi77MZvokOY+RCOim2bGOAWExKsJO27gv0X/c=}"
+          id: "802db27f-c03c-411a-9e5b-0ed30bf9c968"
+          password: "{AQAAABAAAAAQtB0M7aAZtb+jL0bmVU1Pq0L27svSkIu0F2Plnx3HYRs=}"
           scope: SYSTEM
           username: "git@git.com"
       - aws:
           accessKey: "AKIATSMVQX4KXUYQGMWR"
-          description: "aws-jenkin"
-          id: "aws-jenkin"
+          description: "aws-jenkins-demo"
+          id: "aws-jenkins-demo"
           scope: GLOBAL
-          secretKey: "{AQAAABAAAAAw0DBcmTAJ628usz6jLRh833UZvJ+V2GS0T5dgMktSJkKi4NfyvHfuUrWsA2rcZqr25OOyq68E3j6iUrXVhaUQ4w==}"
+          secretKey: "{AQAAABAAAAAwuSEOOOAEp9BBMOphJ+4YEBVd4Pi1elWa1d8gcBTkdTVMbEco0tsDoNSOr4vRs+VS2nI6RWgYMTIzMMjQGwb3lw==}"
+      - aws:
+          accessKey: "AKIATSMVQX4KXUYQGMWR"
+          description: "jenkins-aws-cred"
+          id: "jenkins-aws-cred"
+          scope: GLOBAL
+          secretKey: "{AQAAABAAAAAwjJPIoK1lwxlCVQBtWOkxpLyEtrKVou1/P1W/DbYd+eYuKr0A4k9ZpajytzDR9m+n5U0+SO2fNi5I06iEnfqzcQ==}"
       - gitHubApp:
+          apiUri: "https://api.github.com"
           appID: "370126"
           description: "DevopsOrganise"
           id: "DevopsOrganise"
-          privateKey: "{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}"
+          privateKey: "{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}"
 jenkins:
   agentProtocols:
   - "JNLP4-connect"
@@ -27,15 +34,6 @@ jenkins:
     standard:
       excludeClientIPFromCrumb: false
   disableRememberMe: false
-  globalNodeProperties:
-  - envVars:
-      env:
-      - key: "AWS_ACCESS_KEY_ID"
-        value: "AKIATSMVQX4KXUYQGMWR"
-      - key: "AWS_DEFAULT_REGION"
-        value: "us-east-1"
-      - key: "AWS_SECRET_ACCESS_KEY"
-        value: "YmeLaBp92Vc2VK51C/oY6cpMk+IboLNZSAigB3ep"
   labelAtoms:
   - name: "built-in"
   markupFormatter: "plainText"
@@ -140,11 +138,12 @@ unclassified:
     apiRateLimitChecker: ThrottleForNormalize
     endpoints:
     - apiUri: "https://api.github.com"
-      name: "githubenterprise"
+      name: "GithubEnterprise"
   gitHubPluginConfig:
     configs:
     - manageHooks: false
-    hookUrl: "http://ec2-3-84-13-118.compute-1.amazonaws.com:8080/github-webhook/"
+      name: "Github"
+    hookUrl: "http://ec2-3-83-95-194.compute-1.amazonaws.com:8080/github-webhook/"
   injectionConfig:
     allowUntrusted: false
     checkForBuildAgentErrors: false
@@ -156,7 +155,7 @@ unclassified:
     storage: "file"
   location:
     adminAddress: "address not configured yet <nobody@nowhere>"
-    url: "http://ec2-3-84-13-118.compute-1.amazonaws.com:8080/"
+    url: "http://ec2-3-83-95-194.compute-1.amazonaws.com:8080/"
   mailer:
     charset: "UTF-8"
     useSsl: false
@@ -206,9 +205,9 @@ tool:
           installers:
           - installDotNetSDK:
               label: "dotnet"
-              release: "3.1.30"
-              sdk: "3.1.424"
-              url: "https://download.visualstudio.microsoft.com/download/pr/28fd6fc0-f484-43d0-90cf-5e297a784e44/09c0612bb1cc46378546dfbdfd83014e/dotnet-sdk-3.1.424-linux-x64.tar.gz"
+              release: "3.1.32"
+              sdk: "3.1.426"
+              url: "https://download.visualstudio.microsoft.com/download/pr/79f1cf3e-ccc7-4de4-9f4c-1a6e061cb867/68cab78b3f9a5a8ce2f275b983204376/dotnet-sdk-3.1.426-linux-arm64.tar.gz"
               version: ".NET Core 3.1"
   git:
     installations:
@@ -227,10 +226,10 @@ tool:
     settingsProvider: "standard"
   nodejs:
     installations:
-    - name: "nodejs"
+    - name: "nodes"
       properties:
       - installSource:
           installers:
           - nodeJSInstaller:
-              id: "20.5.0"
+              id: "20.5.1"
               npmPackagesRefreshHours: 72
