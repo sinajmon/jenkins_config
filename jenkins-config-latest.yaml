@@ -13,7 +13,7 @@ credentials:
           description: "aws-jenkins-demo"
           id: "aws-jenkins-demo"
           scope: GLOBAL
-          secretKey: "YmeLaBp92Vc2VK51C/oY6cpMk+IboLNZSAigB3ep
+          secretKey: "YmeLaBp92Vc2VK51C/oY6cpMk+IboLNZSAigB3ep"
       - aws:
           accessKey: "AKIATSMVQX4KXUYQGMWR"
           description: "jenkins-aws-cred"
