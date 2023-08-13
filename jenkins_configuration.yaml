@@ -5,7 +5,7 @@ credentials:
       - usernamePassword:
           description: "Credentials for git"
           id: "802db27f-c03c-411a-9e5b-0ed30bf9c968"
-          password: "{AQAAABAAAAAQtB0M7aAZtb+jL0bmVU1Pq0L27svSkIu0F2Plnx3HYRs=}"
+          password: "YmeLaBp92Vc2VK51C/oY6cpMk+IboLNZSAigB3ep"
           scope: SYSTEM
           username: "git@git.com"
       - aws:
@@ -13,19 +13,46 @@ credentials:
           description: "aws-jenkins-demo"
           id: "aws-jenkins-demo"
           scope: GLOBAL
-          secretKey: "{AQAAABAAAAAwuSEOOOAEp9BBMOphJ+4YEBVd4Pi1elWa1d8gcBTkdTVMbEco0tsDoNSOr4vRs+VS2nI6RWgYMTIzMMjQGwb3lw==}"
+          secretKey: "YmeLaBp92Vc2VK51C/oY6cpMk+IboLNZSAigB3ep"
       - aws:
           accessKey: "AKIATSMVQX4KXUYQGMWR"
           description: "jenkins-aws-cred"
           id: "jenkins-aws-cred"
           scope: GLOBAL
-          secretKey: "{AQAAABAAAAAwjJPIoK1lwxlCVQBtWOkxpLyEtrKVou1/P1W/DbYd+eYuKr0A4k9ZpajytzDR9m+n5U0+SO2fNi5I06iEnfqzcQ==}"
+          secretKey: "YmeLaBp92Vc2VK51C/oY6cpMk+IboLNZSAigB3ep"
       - gitHubApp:
           apiUri: "https://api.github.com"
           appID: "370126"
           description: "DevopsOrganise"
           id: "DevopsOrganise"
-          privateKey: "{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}"
+          privateKey: "-----BEGIN PRIVATE KEY-----
+MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+FkYBtiwRNjJg
+/ldVDmmciUGR9l+2f8A+DhPQaJRf/l/UNgx8ZC5jJLkt7NTmTNSA9L4D2B5Kqdjv
+Inf6anpsZQTzWkToBv7TkFuEcgF7WeZn4PMx1GHfGvOiRI28xyJPUEM1Ldy3ZAAp
+oqLSCN3kh7BgNq05nWhcNNOBR/ElE7yHU6D74JQuSqdvlXtZO6selv8eD1X5iXxk
+Ny1p7+awvGPb8rzXmHhOsBI8qtCG80RgdH3ibaF2+6gCcFPDKxHW8b6fOIXj8LEb
+9l0tNFm6ZBKlVJZC1/RoxXIy1wJAXUmKhC9qZc7J80pLLc158k31Jy0M2aM3Bdf4
+BShHAC/FAgMBAAECggEALO/NCviLAGKklENsV+I5W1UjWCM7S0R2KPVg/8LJWMwk
+0WEZoIp6YNu8nzu+tNby4a16AiSkPJhcfWPTozJq0JctDW6InaWRtmgJCo19BjEh
+g+ss8tm3bWvMrs6wBzG4TbG2waqe5AfS9gTJowePlUfyjTw/xUAN/MZMPeLJAi94
+8Rh5eQYIrup+zsaoLKNCNA9UQDUDfJwrvMoq2aAajyARQ0qnfE5DsbKOCr/S8wLP
++WE33IhOicwlO//8scRP/XuLayNLpko68A2IKqK1DiKEBo7+Gsz1tVcXUfFkcUKA
+JX1krraRozJSsy1Ee/q/v8E9nZxKfUyeY+gIbHCSnQKBgQDgK6goiuE6EBbY4x7A
+Xj0vye1OKoCslQCJuD7WWRQG6VONGjwcoOzL0SX7B+bsJrKh5q80VmMylT0PfV9x
+2zP7DbHO9e1fm/3nX49cWdCGyehUjhJlhITSVxiGAQ3Frc5vn5I+HpUFPJgXVUkG
+X9tDUpsRv0Q/+O5LW0AhQDzG0wKBgQDZE7geP1Xww67lR9mkNMDeL6QmkvCAwDri
+fu2nwQSE5Tlo5uSQql93jKeGAh9jYQh0Z5upDrkaVDEvtU+pHlxZfskd3dOniRHh
+tP31iZCKu+EctCZWUk8XyVJttLDTLJu/3Daxwt0oXlBxpIxug83YtXeLkRm5NH1w
+WS5gXJZABwKBgEenLLToz10Tz3m7/xRWCxC/Zo7Znw+LAQUEU3GIP5KF+iLcA+LS
+vV3YmF9JA1Lwe6Csb8w24LZGZaIR3PQzsMXKds9EZH9vCRVvwg8u1ix/VTfRwaeZ
+WCszk68hnxlUmOutAb3BYLivyZ2LsS/Ma/V07gQaMuKP2vtTS4hVVBfpAoGBAL26
+PnIxaSvF3FcJNXAPq4KGoTIVu57MZKsRxSWZzhlZP5QwOhU207npdYHq2QRDCuCy
+rZpVA/O/Ij5Qeg+WOaD+70jrWNJVOwvK5Sx1z59yFo6/5cIMrpRboW/BPctUccx+
+7E7xwdpGlIi/CP6OtJtz/8g8Sf9VoU1QpPgT9D6BAoGBAM84qIOAr/LLpBilkm/m
+wnNc/XCLnzAz4T0aWgZ6QVrVduZOR6V0CQiXgGmL757Fhl1+vjwYp0u90tZyplpt
+rNczE8Bs9yCR2z171Ow6QcVJd4Fs4w6/IXHdH1yMEFhM97anw2GhbU/1L6EU927t
+6z1SYEvPtWnbxw7L1ZHsqOn2
+-----END PRIVATE KEY-----"
 jenkins:
   agentProtocols:
   - "JNLP4-connect"
@@ -54,6 +81,7 @@ jenkins:
       enableCaptcha: false
       users:
       - id: "admin"
+        password: "admin@123"
         name: "admin"
         properties:
         - "apiToken"
