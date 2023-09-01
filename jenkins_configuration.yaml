@@ -26,6 +26,7 @@ credentials:
           description: "DevopsOrganise"
           id: "DevopsOrganise"
           privateKey: "-----BEGIN PRIVATE KEY-----
+          
 MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+FkYBtiwRNjJg
 /ldVDmmciUGR9l+2f8A+DhPQaJRf/l/UNgx8ZC5jJLkt7NTmTNSA9L4D2B5Kqdjv
 Inf6anpsZQTzWkToBv7TkFuEcgF7WeZn4PMx1GHfGvOiRI28xyJPUEM1Ldy3ZAAp
@@ -52,6 +53,7 @@ rZpVA/O/Ij5Qeg+WOaD+70jrWNJVOwvK5Sx1z59yFo6/5cIMrpRboW/BPctUccx+
 wnNc/XCLnzAz4T0aWgZ6QVrVduZOR6V0CQiXgGmL757Fhl1+vjwYp0u90tZyplpt
 rNczE8Bs9yCR2z171Ow6QcVJd4Fs4w6/IXHdH1yMEFhM97anw2GhbU/1L6EU927t
 6z1SYEvPtWnbxw7L1ZHsqOn2
+
 -----END PRIVATE KEY-----"
 jenkins:
   agentProtocols:
